@@ -1,0 +1,15 @@
+bin/
+build/
+release/
+lib/
+ivy-resolution/
+build.number*
+.classpath
+.project
+build-scofild.xml
+
+#idea
+.idea
+*.iml
+target
+.idea

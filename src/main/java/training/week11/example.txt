@@ -1,0 +1,105 @@
+prettyPrintBinaryTree
+               ╭───╴•aaaaa
+               │     1.xxx
+               │     2.xx
+               │
+          ╭───╴•aaaa
+          │    │1.xxx
+          │    │2.xx
+          │    │
+          │    ╰───╴•aaaab
+     ╭───╴•aaa
+╭───╴•aa
+│    │         ╭───╴•aabaa
+│    │    ╭───╴•aaba
+│    ╰───╴•aab
+•a
+│1.xxx
+│2.xx
+│
+│    ╭───╴•aba
+│    │     1.xxx
+│    │     2.xx
+│    │
+╰───╴•ab
+     │1.xxx
+     │2.xx
+     │
+     │         ╭───╴•abbaa
+     │         │     1.xxx
+     │         │     2.xx
+     │         │
+     │    ╭───╴•abba
+     │    │     1.xxx
+     │    │     2.xx
+     │    │
+     ╰───╴•abb
+          │1.xxx
+          │2.xx
+          │
+          ╰───╴•abbb
+                1.xxx
+                2.xx
+
+
+prettyPrintTree
+•a
+│1.xxx
+│2.xx
+│
+├───╴•aa
+│    │1.xxx
+│    │2.xx
+│    │
+│    ├───╴•aaa
+│    │    │1.xxx
+│    │    │2.xx
+│    │    │
+│    │    ╰───╴•aaaa
+│    │         │1.xxx
+│    │         │2.xx
+│    │         │
+│    │         ├───╴•aaaaa
+│    │         │     1.xxx
+│    │         │     2.xx
+│    │         │
+│    │         ╰───╴•aaaab
+│    │               1.xxx
+│    │               2.xx
+│    │
+│    ╰───╴•aab
+│         │1.xxx
+│         │2.xx
+│         │
+│         ╰───╴•aaba
+│              │1.xxx
+│              │2.xx
+│              │
+│              ╰───╴•aabaa
+│                    1.xxx
+│                    2.xx
+│
+╰───╴•ab
+     │1.xxx
+     │2.xx
+     │
+     ├───╴•aba
+     │     1.xxx
+     │     2.xx
+     │
+     ╰───╴•abb
+          │1.xxx
+          │2.xx
+          │
+          ├───╴•abba
+          │    │1.xxx
+          │    │2.xx
+          │    │
+          │    ╰───╴•abbaa
+          │          1.xxx
+          │          2.xx
+          │
+          ╰───╴•abbb
+                1.xxx
+                2.xx
+

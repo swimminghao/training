@@ -1,0 +1,36 @@
+prettyPrintBinaryTree
+               ╭───╴•aaaaa
+          ╭───╴•aaaa
+     ╭───╴•aaa
+     │    ╰───╴•aaab
+╭───╴•aa
+│    │    ╭───╴•aaaa
+│    ╰───╴•aab
+│         ╰───╴•aabb
+•a
+│         ╭───╴•abaa
+│    ╭───╴•aba
+│    │    │    ╭───╴•ababa
+│    │    ╰───╴•abab
+╰───╴•ab
+     │    ╭───╴•abba
+     ╰───╴•abb
+          ╰───╴•abbb
+
+prettyPrintTree
+•a
+├───╴•aa
+│    ├───╴•aaa
+│    │    ├───╴•aaaa
+│    │    │    ╰───╴•aaaaa
+│    │    ╰───╴•aaab
+│    ╰───╴•aab
+│         ╰───╴•aabb
+╰───╴•ab
+     ├───╴•aba
+     │    ├───╴•abaa
+     │    ╰───╴•abab
+     │         ╰───╴•ababa
+     ╰───╴•abb
+          ├───╴•abba
+          ╰───╴•abbb
